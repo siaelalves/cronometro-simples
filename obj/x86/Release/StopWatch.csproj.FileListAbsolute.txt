@@ -1,0 +1,11 @@
+D:\Projetos\C#\StopWatch\bin\Release\StopWatch.exe
+D:\Projetos\C#\StopWatch\bin\Release\StopWatch.pdb
+D:\Projetos\C#\StopWatch\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projetos\C#\StopWatch\obj\x86\Release\StopWatch.frmCr.resources
+D:\Projetos\C#\StopWatch\obj\x86\Release\StopWatch.Properties.Resources.resources
+D:\Projetos\C#\StopWatch\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projetos\C#\StopWatch\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projetos\C#\StopWatch\obj\x86\Release\StopWatch.exe
+D:\Projetos\C#\StopWatch\obj\x86\Release\StopWatch.pdb
+D:\Projetos\C#\Concluídos\StopWatch\obj\x86\Release\StopWatch.exe
+D:\Projetos\C#\Concluídos\StopWatch\obj\x86\Release\StopWatch.pdb
